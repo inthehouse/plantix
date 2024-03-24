@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "type": "Gesneriaceae",
+    "plant_type": "Cyrtandra",
+    "temperature": 109,
+    "humidity": 6,
+    "timestamp": "1/20/2023"
+  },
+  {
+    "id": 2,
+    "type": "Ranunculaceae",
+    "plant_type": "Larkspurleaf Monkshood",
+    "temperature": 12,
+    "humidity": 75,
+    "timestamp": "4/2/2023"
+  },
+  {
+    "id": 3,
+    "type": "Lecanoraceae",
+    "plant_type": "Bryonora Lichen",
+    "temperature": 0,
+    "humidity": 31,
+    "timestamp": "6/24/2023"
+  },
+  {
+    "id": 4,
+    "type": "Coniocybaceae",
+    "plant_type": "Needle Lichen",
+    "temperature": -20,
+    "humidity": 88,
+    "timestamp": "1/27/2023"
+  },
+  {
+    "id": 5,
+    "type": "Cuscutaceae",
+    "plant_type": "Runyon's Dodder",
+    "temperature": 48,
+    "humidity": 27,
+    "timestamp": "1/13/2023"
+  },
+  {
+    "id": 6,
+    "type": "Bromeliaceae",
+    "plant_type": "Pinon",
+    "temperature": 87,
+    "humidity": 82,
+    "timestamp": "10/31/2023"
+  },
+  {
+    "id": 7,
+    "type": "Asteraceae",
+    "plant_type": "Field Sagewort",
+    "temperature": -14,
+    "humidity": 20,
+    "timestamp": "4/1/2023"
+  },
+  {
+    "id": 8,
+    "type": "Pottiaceae",
+    "plant_type": "Desmatodon Moss",
+    "temperature": 43,
+    "humidity": 50,
+    "timestamp": "3/10/2024"
+  },
+  {
+    "id": 9,
+    "type": "Orchidaceae",
+    "plant_type": "Hooded Coralroot",
+    "temperature": 62,
+    "humidity": 49,
+    "timestamp": "8/10/2023"
+  },
+  {
+    "id": 10,
+    "type": "Combretaceae",
+    "plant_type": "Flame Keeper",
+    "temperature": 70,
+    "humidity": 15,
+    "timestamp": "2/16/2024"
+  },
+  {
+    "type": "Cyrtandra",
+    "plant_type": "Gesneriaceae\t",
+    "temperature": "20",
+    "humidity": "14",
+    "id": 11,
+    "timestamp": "2024-03-23T22:27:00.113Z"
+  },
+  {
+    "type": "Hooded Coralroot",
+    "plant_type": "Orchidaceae",
+    "temperature": "6",
+    "humidity": "4",
+    "id": 12,
+    "timestamp": "2024-03-24T13:11:40.452Z"
+  }
+]

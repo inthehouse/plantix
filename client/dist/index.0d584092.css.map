@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA","sources":["src/styles/global.css"],"sourcesContent":["body {\r\n    font-family: Arial, sans-serif;\r\n    font-size: 14px;\r\n    /* Adjust the font size as needed */\r\n}"],"names":[],"version":3,"file":"index.0d584092.css.map","sourceRoot":"/__parcel_source_root/"}

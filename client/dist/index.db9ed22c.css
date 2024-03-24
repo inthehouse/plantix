@@ -1,0 +1,165 @@
+.header-container {
+  color: #fff;
+  background-color: #333;
+  padding: 10px;
+}
+
+nav ul {
+  background-color: #333;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+.active {
+  background-color: #04aa6d;
+}
+
+#sensors {
+  border-collapse: collapse;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#sensors td, #sensors th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#sensors tr:nth-child(2n) {
+  background-color: #f2f2f2;
+}
+
+#sensors tr:hover {
+  background-color: #ddd;
+}
+
+#sensors th {
+  text-align: left;
+  color: #fff;
+  background-color: #04aa6d;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.warning {
+  color: #dc143c;
+  background-color: #ffe4e1;
+  border: 1px solid #dc143c;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.custom-alert {
+  z-index: 999;
+  border-radius: 4px;
+  justify-content: space-between;
+  padding: 15px;
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  box-shadow: 0 2px 4px #0000001a;
+}
+
+.custom-alert.error {
+  color: #c62828;
+  background-color: #ffcdd2;
+}
+
+.custom-alert.success {
+  color: #2e7d32;
+  background-color: #c8e6c9;
+}
+
+.alert-content {
+  align-items: center;
+  display: flex;
+}
+
+.close-btn {
+  cursor: pointer;
+  color: #2e7d32;
+  margin-left: 10px;
+  font-size: 18px;
+}
+
+.close-btn:hover {
+  color: #ddd;
+}
+
+.form-container {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.form-container h2 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  margin-bottom: 5px;
+  font-weight: bold;
+  display: block;
+}
+
+.form-group input[type="text"], .form-group input[type="number"], .form-group input[type="datetime-local"] {
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  padding: 8px;
+}
+
+.button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #04aa6d;
+  border: none;
+  border-radius: 4px;
+  width: 100%;
+  padding: 10px;
+}
+
+.button:hover {
+  background-color: #039966;
+}
+
+.invalid {
+  color: red;
+  font-family: monospace;
+  font-size: small;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+/*# sourceMappingURL=index.db9ed22c.css.map */
